@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullatifbasha
 - 👀 I’m interested in Cloud Computing
-- I successfully aquired many AWS certificates !
+- I successfully acquired many AWS certificates !
 - 🌱 I’m currently learning Terraform 
 - 💞️ I’m looking to collaborate on developing clouds skills
 - 📫 How to reach me eng.abdullatif.basha@gmail.com
